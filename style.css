@@ -1,0 +1,96 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+/* Barra de navegación */
+.navbar {
+    background-color: #8a1e92;
+    padding: 2rem;
+}
+
+.navbar div {
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.navbar div:hover {
+    text-decoration: underline;
+}
+
+
+/* Sección de presentación */
+.Mi{
+    border: 1px solid #dadada;
+    background-color: #d3d3d3;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+.col-md-4 {
+    margin: 20px;
+}
+
+.col-md-8{
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+
+/* Cita Inspiradora */
+.Cita {
+    margin-top: 12px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+
+.Cita{
+    margin: 20px;
+}
+
+/* Galería de Imágenes */
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.gallery img {
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 1rem;
+}
+
+/* Sección de Descripciones */
+.descriptions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.descriptions .card {
+    border: 1px solid #525151;
+    margin-bottom: 1rem;
+    flex: 1;
+    margin-right: 1rem;
+}
+
+.descriptions .card-body {
+    text-align: center;
+}
+
+.descriptions .card:last-child {
+    margin-right: 0;
+}
+
+/* Pie de página */
+.footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #e0f7fa;
+    color: #007bff;
+}
