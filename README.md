@@ -1,0 +1,3 @@
+Alumno: Josue Ernesto Velasquez Cruz
+Codigo: U20230383
+Cita de lo Eprendido: Aprendi A como utilizar bootstrap aun mas pero me falta aprender como encajar cajas y mucho mas...
